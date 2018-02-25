@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# config and data
+config.json
+data.json

@@ -1,0 +1,6 @@
+{
+  "domains": ["awesome.domain.my", "awesome2.domain.my"],
+  "aws_access_key_id": "MY0AWS0ACCESS0KEY0ID",
+  "aws_secret_access_key": "my/aws/access/secret/key/fourty/two/4242",
+  "hosted_zone_id": "AHOSTEDZONEID0"
+}
